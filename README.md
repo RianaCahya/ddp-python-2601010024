@@ -1,6 +1,6 @@
 # Latihan Dasar-Dasar Pemrograman: Pertemuan 6
 
-- Nama  : Riana
+- Nama  : Ni Kadek Riana Cahya Dewiyanti
 - NIM   : 2601010024
 - Kelas : SI PAGI1
 
